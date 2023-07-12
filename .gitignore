@@ -1,5 +1,1 @@
-build/
-dist/
-cypml.egg-info/
-__pycache__
-*.pyc
+index.html
