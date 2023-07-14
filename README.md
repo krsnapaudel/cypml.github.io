@@ -11,7 +11,7 @@ Thanks for visiting!
 ## PhD Research
 The title of my PhD was: *Machine learning for large-scale crop yield forecasting*.
 
-* [Software implementation](https://github.com/BigDataWUR/MLforCropYieldForecasting).
+* [Software implementation](https://github.com/BigDataWUR/MLforCropYieldForecasting)
 * [PhD thesis](https://doi.org/10.18174/588095)
 
 ## Publications
