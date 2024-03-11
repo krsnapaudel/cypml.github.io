@@ -1,6 +1,6 @@
 # Welcome!
 
-Thanks for visiting! My name is Dilli Raj Paudel. I am a researcher at Wageningen University and Research.
+Thanks for visiting!
 
 ## A Short Bio
 * From Nepal
